@@ -2,8 +2,6 @@ import streamlit as st
 import pydeck as pdk
 import math
 import pandas as pd
-import json
-import base64
 from services.queries import load_geojson, load_pois, load_icon
 
 
